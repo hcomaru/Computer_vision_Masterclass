@@ -59,7 +59,7 @@ def show_img_details(img, type):
 # Run script
 if __name__ == '__main__':
     # Load Image
-    img = cv2.imread('Images/image_example1.jpg')
+    tree = cv2.imread('Images/image_example1.jpg')
     dog = cv2.imread('Images/dog.jpg')
 
     # Run image
