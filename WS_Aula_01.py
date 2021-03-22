@@ -53,7 +53,7 @@ def show_img_details(img, type):
         cv2.waitKey()
 
     else:
-        print('####### Wrong type ########')
+        print('######### Wrong type #########')
 
 
 # Run script
